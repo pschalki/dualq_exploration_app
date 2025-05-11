@@ -149,7 +149,6 @@ pynndescent==0.5.13
 pyparsing==3.1.4
 pytest==8.3.2
 python-dateutil==2.9.0.post0
-python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv-split_1706018097647/work
 python-json-logger==2.0.7
 python-multipart==0.0.9
 pytz==2024.1
